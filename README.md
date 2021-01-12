@@ -1,12 +1,14 @@
 # R_notes
 Personal learning notes.
 
-## P1-P5 Intruction
+## Intruction (P1-P5)
 Ross Ihaka + Robert Gentleman = R
-一开始是用来做生物统计的。
+It was originally used to do biometrics.
 Now: Bioconductor
-5000+扩展包 有冗余重复
-数据分析流程：数据分析数据采集-数据存储-数据分析-数据挖掘-数据可视化-决策
+5000+ extension packages. A lot of packages overlap.
+Data analysis process: data analysis and data collection - data storage - data analysis - data mining - data visualization - decision.
 
-## P6 Example 1
-维C/橙汁-牙齿长度 橙汁更有利于牙齿生长
+## Example (P6)
+Vitamin C/ Orange Juice - Teeth Length
+Orange juice is better for tooth growth.
+Both orange juice and vitamin C are good for tooth growth, with orange juice being the more beneficial.
